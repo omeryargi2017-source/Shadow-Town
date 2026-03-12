@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Shadow Town - Minecraft Towny Sunucusu</title>
+<style>
+body{
+  font-family: Arial;
+  margin:0;
+  background:#0f2f0f;
+  color:white;
+}
+
+header{
+  background:#1f7a1f;
+  padding:20px;
+  text-align:center;
+  font-size:30px;
+}
+
+nav{
+  background:#145214;
+  padding:10px;
+  text-align:center;
+}
+
+nav a{
+  color:white;
+  margin:15px;
+  text-decoration:none;
+  font-size:18px;
+  background:#2ea32e;
+  padding:8px 15px;
+  border-radius:5px;
+  transition:0.2s;
+}
+nav a:hover{
+  background:#3fc93f;
+}
+
+section{
+  padding:40px;
+  text-align:center;
+}
+
+.button{
+  background:white;
+  color:green;
+  padding:10px 20px;
+  text-decoration:none;
+  border-radius:5px;
+}
+
+footer{
+  background:#145214;
+  padding:20px;
+  text-align:center;
+}
+</style>
+</head>
+<body>
+
+<header>
+Shadow Town - Minecraft Towny Sunucusu
+</header>
+
+<nav>
+<a href="#tanitim">Tanıtım</a>
+<a href="#premium">Premium</a>
+<a href="#indir">İndir</a>
+<a href="#iletisim">İletişim</a>
+</nav>
+
+<section id="tanitim">
+<h2>Sunucu Tanıtımı</h2>
+<p>Minecraft Towny sunucumuz <strong>Shadow Town</strong>'a hoş geldiniz!  
+Kendi şehrinizi kurun, arkadaşlarınızla oynayın ve büyük bir krallık oluşturun.  
+Sunucumuz hem ücretsiz hem de Premium avantajlarla dolu! Özel kitler, özel alanlar ve eğlenceli etkinlikler sizi bekliyor.</p>
+</section>
+
+<section id="premium">
+<h2>Premium Avantajlar</h2>
+<p>Premium oyuncular özel avantajlar kazanır:</p>
+<ul>
+  <li>🌟 Özel kitler</li>
+  <li>🏰 Kendi özel alanın</li>
+  <li>⚔️ Daha hızlı seviye atlama</li>
+  <li>🎉 Özel etkinliklere katılım</li>
+</ul>
+<p>Premium olup farkı yaşa!</p>
+</section>
+
+<section id="indir">
+<h2>Minecraft Sunucumuza Katıl</h2>
+<p>Minecraft’ı indirip <strong>Shadow Town</strong> sunucumuza katılabilirsiniz. Arkadaşlarınızı çağırın ve kendi şehrinizi kurun!</p>
+<a class="button" href="https://www.minecraft.net/download">Minecraft İndir</a>
+</section>
+
+<section id="iletisim">
+<h2>İletişim</h2>
+<p>Email: seninmailin@example.com</p>
+<p>Bizimle iletişime geçmek için email adresimizi kullanabilirsiniz.</p>
+</section>
+
+<footer>
+© 2026 Shadow Town Minecraft Sunucusu
+</footer>
+
+</body>
+</html>
